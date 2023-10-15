@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Thiwanka Gamage</h1>
 <h3 align="center">Bsc (Hons) Software Engineering</h3>
-<img aling="right" alt="Developer" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+<img aling="right" alt="Developer" width="600" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiwankagamage&label=Profile%20views&color=0e75b6&style=flat" alt="thiwankagamage" /> </p>
