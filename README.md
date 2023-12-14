@@ -1,13 +1,7 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Thiwanka Gamage</h1>
 <h3 align="center">Bsc (Hons) in Software Engineering</h3>
-<img aling="right" alt="Developer" width="600" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiwankagamage&label=Profile%20views&color=0e75b6&style=flat" alt="thiwankagamage" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thiwankagamage" alt="thiwankagamage" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/thiwanka_gamage" target="blank"><img src="https://img.shields.io/twitter/follow/thiwanka_gamage?logo=twitter&style=for-the-badge" alt="thiwanka_gamage" /></a> </p>
 
 - 🌱 I’m currently learning **PHP**
