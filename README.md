@@ -1,5 +1,5 @@
 <h1 align="start">Hi 👋, I'm Thiwanka Gamage</h1>
-<h5 align="start">🔗 Software engineering undergrad passionate about coding. Eager to contribute to projects while advancing skills. Committed to continuous learning and collaborative development</h5>
+<h5 align="start">🔗 Software engineering undergrad passionate about coding. Eager to contribute to projects while advancing skills. Committed to continuous learning and collaborative development.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiwankagamage&label=Profile%20views&color=0e75b6&style=flat" alt="thiwankagamage" /> </p>
 <p align="left"> <a href="https://twitter.com/thiwanka_gamage" target="blank"><img src="https://img.shields.io/twitter/follow/thiwanka_gamage?logo=twitter&style=for-the-badge" alt="thiwanka_gamage" /></a> </p>
