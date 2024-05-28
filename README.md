@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **thiwankagamage778@gmail.com**
 
-- ⚡ Fun fact **No substitute for Hard work.**
+- **No substitute for Hard work.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
